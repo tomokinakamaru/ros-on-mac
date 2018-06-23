@@ -3,3 +3,5 @@
 - Distro: melodic
 
 - Variant: desktop
+
+- macOS: High Sierra
