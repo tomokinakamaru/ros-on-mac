@@ -1,1 +1,5 @@
-# Install ROS on macOS (Experimental)
+# Install ROS on macOS (experimental)
+
+- Distro: melodic
+
+- Variant: desktop
