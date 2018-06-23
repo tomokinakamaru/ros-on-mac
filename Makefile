@@ -5,7 +5,7 @@ brew:
 	brew tap ros/deps
 	brew tap osrf/simulation
 	brew tap homebrew/core
-	brew install cmake poco boost orocos-kdl sip pyqt gtest lz4 fltk urdfdom gpgme tinyxml2 boost-python opencv ogre
+	brew install cmake poco boost orocos-kdl sip pyqt gtest lz4 fltk urdfdom gpgme tinyxml2 boost-python opencv ogre assimp yaml-cpp
 
 virtualenv:
 	pip install virtualenv
