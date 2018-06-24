@@ -2,6 +2,7 @@ all: clean brew virtualenv wstool fix-rosbag fix-rosbag-storage fix-python-qt-bi
 
 brew:
 	brew update
+	brew cask install xquartz
 	brew tap ros/deps
 	brew tap osrf/simulation
 	brew tap homebrew/core
